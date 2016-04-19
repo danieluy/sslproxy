@@ -1,2 +1,3 @@
 # sslproxy
-Node.Js &amp; "http-proxy modue" SSL proxy
+Simple SSL proxy
+Node.Js &amp; "http-proxy modue"
